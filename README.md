@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whosnied (Daiana Nied)
 - 👀 I’m interested in learn to program so that you can have a job in this area in the future.
-- 🌱 I’m currently learning HTML, CSS & JavaScript.
-- 💞️ I’m looking to collaborate on any front-end projects with a beginner level.
+- 🌱 I’m currently learning programming with Python.
+- 💞️ I’m looking to collaborate on any interesting projects beginner level.
 - 📫 How to reach me - Instagram: @whosnied.
 
 <!---
